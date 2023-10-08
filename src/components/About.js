@@ -29,7 +29,7 @@ const About = (props) => {
           </h2>
           <div id="collapseTwo" className="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
             <div className="accordion-body" style={myStyle}>
-              <strong>Free to use:</strong> This utility is developed by Kanishk Magare and is free to use for anyone. It is an open-source project that helps users perform actions on their texts.
+              <strong>Free to use:</strong> This utility is developed by Manali Kadam and is free to use for anyone. It is an open-source project that helps users perform actions on their texts.
             </div>
           </div>
         </div>
